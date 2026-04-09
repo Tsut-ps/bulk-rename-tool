@@ -1,5 +1,7 @@
 # Bulk Rename From CSV
 
+<img width="1166" height="813" alt="image" src="https://github.com/user-attachments/assets/084957b6-cfd9-40a7-9fa9-211a64f613f0" />
+
 ## 最初に使うファイル
 
 - まずは [`start.cmd`](./start.cmd) を実行してください
