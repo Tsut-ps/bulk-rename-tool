@@ -1,0 +1,3 @@
+/outputs/
+/inputs/*
+!/inputs/.gitkeep
