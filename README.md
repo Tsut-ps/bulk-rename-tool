@@ -1,6 +1,6 @@
 # Bulk Rename From CSV
 
-<img width="1166" height="813" alt="image" src="https://github.com/user-attachments/assets/084957b6-cfd9-40a7-9fa9-211a64f613f0" />
+<img width="1166" height="813" alt="image" src="https://github.com/user-attachments/assets/11dd83b9-3792-4daf-bf54-3b35c65d9f5c" />
 
 ## 最初に使うファイル
 
